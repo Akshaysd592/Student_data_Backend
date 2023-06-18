@@ -1,0 +1,34 @@
+This is a backend  assignment for student data storage and applying CRUD operation on it.
+
+
+
+This includes MVC implementation includes folders:
+
+config = database connection
+controllers = route handles or business logic
+models = schema declaration
+routes = api routes 
+Also includes .env file for variable declaration such as port and database_url.
+
+
+
+index.js file includes server creation , middleware declaration  , routes creation , database connection.
+
+All the detail about code implementation is well commented for understanding.
+
+
+
+
+You can check  postman API documentation here  :  https://documenter.getpostman.com/view/27253688/2s93si2ABw
+
+
+
+
+
+
+
+
+
+
+
+
